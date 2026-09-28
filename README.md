@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="7yfu — 14 years old, the coder. Marin Kitagawa and Alya Kujou." width="100%" />
+  <img src="./banner-v2.png" alt="7yfu — 14 years old, the coder. Marin Kitagawa and Alya Kujou." width="100%" />
 </p>
 
 ### about
@@ -27,3 +27,4 @@ Code, anime, and small ideas turned into working projects.
 Starting fresh. Exploring new ideas, improving the fundamentals, and making each project a little better than the last.
 
 <sub>Character artwork: [Marin Kitagawa — My Dress-Up Darling](https://bisquedoll-anime.com/character/) · [Alya Kujou — Roshidere](https://roshidere.com/chara/alisa.html). All character artwork belongs to its respective owners.</sub>
+
