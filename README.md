@@ -1,16 +1,29 @@
-## Hi there 👋
+<p align="center">
+  <img src="./banner.png" alt="7yfu — 14 years old, the coder. Marin Kitagawa and Alya Kujou." width="100%" />
+</p>
 
-<!--
-**7yfu/7yfu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### about
 
-Here are some ideas to get you started:
+14-year-old coder. Learning, experimenting, and building things one project at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like code, anime, and making ideas work.
+
+---
+
+### toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,html,git,github&theme=dark" alt="Python, Java, HTML, Git, GitHub" />
+</p>
+
+- **code:** Python · Java · HTML
+- **workflow:** Git · GitHub
+- **mindset:** learn by building
+
+---
+
+### activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=7yfu&bg_color=0d1117&color=c9d1d9&line=d8a9c3&point=c8c2ee&area=true&hide_border=true" alt="7yfu's GitHub contribution activity" width="100%" />
+
+<sub>Character artwork: [Marin Kitagawa — My Dress-Up Darling](https://bisquedoll-anime.com/character/) · [Alya Kujou — Roshidere](https://roshidere.com/chara/alisa.html). All character artwork belongs to its respective owners.</sub>
