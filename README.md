@@ -4,9 +4,9 @@
 
 ### about
 
-14-year-old coder. Learning, experimenting, and building things one project at a time.
+**14-year-old developer, learning by building.**
 
-I like code, anime, and making ideas work.
+Code, anime, and small ideas turned into working projects.
 
 ---
 
@@ -22,9 +22,8 @@ I like code, anime, and making ideas work.
 
 ---
 
-### currently
+### right now
 
-Starting fresh. Learning new things and building the next project.
+Starting fresh. Exploring new ideas, improving the fundamentals, and making each project a little better than the last.
 
 <sub>Character artwork: [Marin Kitagawa — My Dress-Up Darling](https://bisquedoll-anime.com/character/) · [Alya Kujou — Roshidere](https://roshidere.com/chara/alisa.html). All character artwork belongs to its respective owners.</sub>
-
