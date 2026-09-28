@@ -22,8 +22,9 @@ I like code, anime, and making ideas work.
 
 ---
 
-### activity
+### currently
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=7yfu&bg_color=0d1117&color=c9d1d9&line=d8a9c3&point=c8c2ee&area=true&hide_border=true" alt="7yfu's GitHub contribution activity" width="100%" />
+Starting fresh. Learning new things and building the next project.
 
 <sub>Character artwork: [Marin Kitagawa — My Dress-Up Darling](https://bisquedoll-anime.com/character/) · [Alya Kujou — Roshidere](https://roshidere.com/chara/alisa.html). All character artwork belongs to its respective owners.</sub>
+
